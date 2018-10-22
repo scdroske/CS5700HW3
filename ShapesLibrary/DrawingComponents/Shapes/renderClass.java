@@ -7,6 +7,10 @@ import java.awt.*;
 public class renderClass {
 
     public static void main(String[] args){
+        ReadFile read = new ReadFile();
+        read.openFile();
+        read.readFile();
+        read.closeFile();
         JFrame window = new JFrame();
         window.setSize(640, 480);
         window.setTitle("Shapes");
