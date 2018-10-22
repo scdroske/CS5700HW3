@@ -2,29 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="674b1c1c-dc82-41b3-9e18-7879f4242de8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/CompositeShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/DrawingComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/ShapesExtrinsicState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/ShapesIntrinsicState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/renderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/CompositeShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/CreatingGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/Ellipse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/EmbeddedPicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/Scripts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/ShapeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS5700HW3" beforeDir="false" afterPath="$PROJECT_DIR$/../CS5700HW3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/DrawingComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/DrawingComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/DrawingComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/DrawingComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" beforeDir="false" afterPath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forest-drawing" beforeDir="false" afterPath="$PROJECT_DIR$/../forest-drawing" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +107,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539909914642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540230233565" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

@@ -2,29 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f8a97b-a531-4eff-947c-412a5d8f0254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/CompositeShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/ShapesExtrinsicState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/ShapesIntrinsicState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/renderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/CompositeShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/CreatingGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Ellipse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/EmbeddedPicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Scripts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/ShapeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS5700HW3" beforeDir="false" afterPath="$PROJECT_DIR$/../CS5700HW3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/DrawingComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/DrawingComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" beforeDir="false" afterPath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forest-drawing" beforeDir="false" afterPath="$PROJECT_DIR$/../forest-drawing" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,24 +30,24 @@
         <counts>
           <entry key="READFILE" value="1" />
           <entry key="Scripts" value="1" />
-          <entry key="java" value="23" />
+          <entry key="java" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="24" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Scripts" value="189" />
-          <entry key="java" value="3813" />
+          <entry key="java" value="4810" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3813" />
+          <entry key="JAVA" value="4810" />
           <entry key="PLAIN_TEXT" value="189" />
         </counts>
       </usages-collector>
@@ -99,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/renderClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -114,10 +99,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="130">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-187">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,15 +146,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/shapes/Scripts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -199,8 +190,9 @@
         <option value="$PROJECT_DIR$/DrawingComponents/CompositeShape.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/CompositeShape.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/ShapesExtrinsicState.java" />
-        <option value="$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/renderClass.java" />
+        <option value="$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java" />
+        <option value="$PROJECT_DIR$/DrawingComponents/Shapes/Rectangle.java" />
       </list>
     </option>
   </component>
@@ -279,7 +271,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539909914611" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540230233543" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -556,8 +548,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="130">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -570,6 +562,19 @@
           <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
