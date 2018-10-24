@@ -1,4 +1,4 @@
-package shapes;
+package Shapes;
 
 public class Validator {
     public static void validateDouble(double value, String errorMessage) throws ShapeException {

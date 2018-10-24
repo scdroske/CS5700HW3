@@ -11,7 +11,7 @@ public class EmbeddedPicture extends java.applet.Applet {
     List embeddedPictureList = new ArrayList();
 
     //read script in
-
+    //insert htmlimage --- set equal to image file path
     String imageFilePath;
     Panel p;
     Label t;

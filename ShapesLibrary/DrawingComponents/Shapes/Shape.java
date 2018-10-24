@@ -1,4 +1,5 @@
-package shapes;
+package Shapes;
+
 
 public interface Shape {
 

@@ -55,7 +55,7 @@ public class CompositeShape implements Shape {
     public double getArea(double length, double height) {
         double totalCompositeArea =0;
         for (Shape : shapeList) {
-            totalCompositeArea += Shape.;
+            totalCompositeArea += Shape;
         }
         return 0;
     }

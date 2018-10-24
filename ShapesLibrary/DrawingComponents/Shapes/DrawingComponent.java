@@ -12,6 +12,9 @@ public class DrawingComponent extends JComponent {
          Graphics2D graphic = (Graphics2D) g;
 
          Color color = new Color(255,0,0);
+
+
+
          Rectangle rect = new Rectangle();
 
          graphic.setColor(color);
