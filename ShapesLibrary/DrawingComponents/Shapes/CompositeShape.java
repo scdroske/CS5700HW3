@@ -14,11 +14,11 @@ public class CompositeShape extends ShapeFactory{
     }
 
 
-    public void addShape(Shapes shape) {
+    public void addShape(ShapeFactory shape) {
         compositeShape.add(shape);
     }
 
-    public void removeShape(Shape shape) {
+    public void removeShape(ShapeFactory shape) {
         compositeShape.remove(shape);
     }
 
@@ -48,5 +48,11 @@ public class CompositeShape extends ShapeFactory{
             shapeFactory.generateShape();
         }
     }
+
+    public Iterator createIterator(){
+        return new CompositeIterator(compositeShape.iterator());
+    }
 }
+
+
 

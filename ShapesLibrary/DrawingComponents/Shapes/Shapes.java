@@ -1,5 +1,7 @@
 package Shapes;
 
+import java.util.Iterator;
+
 public class Shapes extends ShapeFactory {
     //this is where the script will run against the objects
     String shape;
@@ -31,5 +33,9 @@ public class Shapes extends ShapeFactory {
         }
         System.out.println(", " + getLocation());
         System.out.println("  --" + getArea());
+    }
+
+    public Iterator createIterator(){
+        return new NullIterator();
     }
 }

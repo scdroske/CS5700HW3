@@ -7,11 +7,11 @@ import java.util.List;
 public abstract class ShapeFactory {
     List composite = new ArrayList();
 
-    public void addShape(Shape shape){
+    public void addShape(ShapeFactory shapeFactory){
         throw new UnsupportedOperationException();
     }
 
-    public void removeShape(Shape shape){
+    public void removeShape(ShapeFactory shapeFactory){
         throw new UnsupportedOperationException();
     }
 
