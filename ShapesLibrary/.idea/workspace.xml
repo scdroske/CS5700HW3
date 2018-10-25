@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f8a97b-a531-4eff-947c-412a5d8f0254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/NullIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/testCompositeIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS5700HW3" beforeDir="false" afterPath="$PROJECT_DIR$/../CS5700HW3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/CompositeShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/CompositeShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/Scripts.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/CompositeIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/ShapeCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/ShapeCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/Shapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/renderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/renderClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShapesLibrary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ShapesLibrary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/CompositeShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/CompositeShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/DrawingComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/DrawingComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/Scripts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/ShapeFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/Shapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/Shapes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/renderClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShapesLibrary/Shapes/renderClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shapes/CompositeShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shapes/CompositeStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" beforeDir="false" afterPath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../forest-drawing" beforeDir="false" afterPath="$PROJECT_DIR$/../forest-drawing" afterDir="false" />
     </list>
@@ -45,13 +30,13 @@
           <entry key="READFILE" value="1" />
           <entry key="Scripts" value="1" />
           <entry key="inputscript" value="1" />
-          <entry key="java" value="52" />
+          <entry key="java" value="60" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="52" />
+          <entry key="JAVA" value="60" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -59,12 +44,12 @@
         <counts>
           <entry key="Scripts" value="189" />
           <entry key="inputscript" value="116" />
-          <entry key="java" value="12800" />
+          <entry key="java" value="12887" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12800" />
+          <entry key="JAVA" value="12887" />
           <entry key="PLAIN_TEXT" value="305" />
         </counts>
       </usages-collector>
@@ -73,19 +58,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/Shapes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="e#975#976#0" expanded="true" />
-                <element signature="e#1024#1025#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ShapeCreator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -95,10 +67,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/testCompositeIterator.java">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="248">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/Ellipse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureExtrinsic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,27 +123,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/NullIterator.java">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/CompositeShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ShapeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/CompositeIterator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,81 +167,6 @@
               <caret line="62" column="49" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/CompositeIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#1004#1005#0" expanded="true" />
-                <element signature="e#1060#1061#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/Point.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/CompositeShape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#1191#1192#0" expanded="true" />
-                <element signature="e#1227#1228#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ShapeFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -255,9 +208,7 @@
         <option value="$PROJECT_DIR$/src/main/java/shapes/Shape.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/Shape.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java" />
-        <option value="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureExtrinsic.java" />
-        <option value="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java" />
         <option value="$PROJECT_DIR$/src/main/java/shapes/CompositeShape.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/renderClass.java" />
@@ -268,6 +219,8 @@
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/Shapes.java" />
         <option value="$PROJECT_DIR$/test/testCompositeIterator.java" />
         <option value="$PROJECT_DIR$/DrawingComponents/Shapes/ShapeCreator.java" />
+        <option value="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java" />
+        <option value="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java" />
       </list>
     </option>
   </component>
@@ -315,7 +268,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540490667644" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540493462000" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -428,6 +381,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -484,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ShapesIntrinsicState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ShapesExtrinsicState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -502,13 +456,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/WriteFile.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/Ellipse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/inputscript">
       <provider selected="true" editor-type-id="text-editor">
@@ -534,30 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureExtrinsic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -602,83 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ReadFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="62" column="49" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/CompositeShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#1191#1192#0" expanded="true" />
-            <element signature="e#1227#1228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/CompositeIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#1004#1005#0" expanded="true" />
-            <element signature="e#1060#1061#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/testCompositeIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -719,6 +565,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="62" column="49" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureExtrinsic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/Ellipse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/DrawingComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/CompositeIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ShapesIntrinsicState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/CompositeShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

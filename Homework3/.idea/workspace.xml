@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="674b1c1c-dc82-41b3-9e18-7879f4242de8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/NullIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShapesLibrary/test/testCompositeIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS5700HW3" beforeDir="false" afterPath="$PROJECT_DIR$/../CS5700HW3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ShapesLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/CompositeShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/CompositeShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/Scripts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/CompositeIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/ShapeCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/ShapeCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/Shapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/renderClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/renderClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/ShapesLibrary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/ShapesLibrary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/CompositeShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/CompositeShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/DrawingComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/DrawingComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/Scripts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/ShapeFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/Shapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/Shapes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/renderClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/out/production/ShapesLibrary/Shapes/renderClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/CompositeShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/src/main/java/shapes/CompositeStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/EmbeddedPictureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/EmbeddedPictureFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapesLibrary/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" beforeDir="false" afterPath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../forest-drawing" beforeDir="false" afterPath="$PROJECT_DIR$/../forest-drawing" afterDir="false" />
     </list>
