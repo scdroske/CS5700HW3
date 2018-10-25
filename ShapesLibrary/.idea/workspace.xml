@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88f8a97b-a531-4eff-947c-412a5d8f0254" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../CS5700HW3" beforeDir="false" afterPath="$PROJECT_DIR$/../CS5700HW3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureIntrinsic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" beforeDir="false" afterPath="$PROJECT_DIR$/../TrackingServer-HW2-CS5700" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../forest-drawing" beforeDir="false" afterPath="$PROJECT_DIR$/../forest-drawing" afterDir="false" />
     </list>
@@ -81,7 +78,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="23">
               <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -224,11 +221,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="141" />
-    <option name="y" value="261" />
-    <option name="width" value="1400" />
-    <option name="height" value="775" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="167" />
+    <option name="width" value="1120" />
+    <option name="height" value="620" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -268,7 +264,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540493462000" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540493664874" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -328,15 +324,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="134" y="0" width="896" height="496" extended-state="1" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20738254" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.36961722" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -344,7 +339,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.6749311" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -653,7 +648,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DrawingComponents/Shapes/EmbeddedPictureFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="23">
           <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
